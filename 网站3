@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>联系我们</title>
+</head>
+<style>
+    h1{
+        font-style:italic;
+        text-align:center;
+    }
+</style>
+<body>
+    <h1>Welcome to my homepage 3</h1>
+    <p>This is my weekly class schedule</p >
+        <table border="1" width="400px" height="400px">
+            <tr>
+                <td class="td1"></td>
+                <td>周一</td>
+                <td>周二</td>
+                <td>周三</td>
+                <td>周四</td>
+                <td>周五</td>
+            </tr>
+            <tr>
+                <td rowspan="4" class="td1">上午</td>
+                <td>JAVA</td>
+                <td>信息通信技术欢迎中的IP</td>
+                <td>英语综合3</td>
+                <td>标记语言文档的创建</td>
+                <td>运用批判性思维解决问题</td>
+            </tr>
+            <tr>
+                <td>JAVA</td>
+                <td>信息通信技术欢迎中的IP</td>
+                <td>英语综合3</td>
+                <td>标记语言文档的创建</td>
+                <td>运用批判性思维解决问题</td>
+            </tr>
+            <tr>
+                <td>JAVA</td>
+                <td>信息通信技术欢迎中的IP</td>
+                <td>英语综合3</td>
+                <td>标记语言文档的创建</td>
+                <td>运用批判性思维解决问题</td>
+            </tr>
+            <tr>
+                <td>JAVA</td>
+                <td>信息通信技术欢迎中的IP</td>
+                <td>英语综合3</td>
+                <td>标记语言文档的创建</td>
+                <td>运用批判性思维解决问题</td>
+            </tr>
+            <tr>
+                <td rowspan="4" class="td1">下午</td>
+                <td>体育健康3</td>
+                <td>工作场所网络安全意识和实践提升的办法</td>
+                <td>社团活动</td>
+                <td>ICT业务分析活动的计划和监控</td>
+                <td>平面海报艺术鉴赏</td>
+            </tr>
+            <tr>
+                <td>体育健康3</td>
+                <td>工作场所网络安全意识和实践提升的办法</td>
+                <td>社团活动</td>
+                <td>ICT业务分析活动的计划和监控</td>
+                <td>平面海报艺术鉴赏</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>工作场所网络安全意识和实践提升的办法</td>
+                <td>社团活动</td>
+                <td>ICT业务分析活动的计划和监控</td>
+                <td>平面海报艺术鉴赏</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>工作场所网络安全意识和实践提升的办法</td>
+                <td>社团活动</td>
+                <td>ICT业务分析活动的计划和监控</td>
+                <td>平面海报艺术鉴赏</td>
+            </tr>
+</body>
+</html>
